@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Desafio_Automatizacion">
+	<listeners>
+		<listener class-name="ips.utils.listeners.TestListener" />
+		<listener
+			class-name="ips.utils.listeners.AnnotationTransformer" />
+	</listeners>
+<test name="CP001_Flujo_Completo_Desafio"><classes><class name="ips.tests.CP001_Flujo_Completo_Desafio"/></classes></test>
+<test name="CP002_PuntoExtra"><classes><class name="ips.tests.CP002_PuntoExtra"/></classes></test>
+<test name="CP003_PuntoExtra2"><classes><class name="ips.tests.CP003_PuntoExtra2"/></classes></test>
+
+</suite> 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-19T22:07:02 CLT" name="Desafio_Automatizacion" finished-at="2024-08-19T22:09:52 CLT" duration-ms="170601">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T22:07:02 CLT" name="CP001_Flujo_Completo_Desafio" finished-at="2024-08-19T22:08:36 CLT" duration-ms="94487">
+      <class name="ips.tests.CP001_Flujo_Completo_Desafio">
+        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:ips.tests.CP001_Flujo_Completo_Desafio@67d48005]" started-at="2024-08-19T22:07:03 CLT" name="classLevelSetup" finished-at="2024-08-19T22:07:05 CLT" duration-ms="2245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelSetup -->
+        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:ips.tests.CP001_Flujo_Completo_Desafio@67d48005]" started-at="2024-08-19T22:07:05 CLT" name="methodLevelSetup" finished-at="2024-08-19T22:07:05 CLT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method signature="CP001(java.lang.reflect.Method)[pri:0, instance:ips.tests.CP001_Flujo_Completo_Desafio@67d48005]" started-at="2024-08-19T22:07:05 CLT" name="CP001" description="Flujo Completo Desafio" finished-at="2024-08-19T22:08:32 CLT" duration-ms="86588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ips.tests.CP001_Flujo_Completo_Desafio.CP001(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ips.tests.CP001_Flujo_Completo_Desafio@67d48005]" started-at="2024-08-19T22:08:32 CLT" name="teardown" finished-at="2024-08-19T22:08:36 CLT" duration-ms="4552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ips.tests.CP001_Flujo_Completo_Desafio -->
+    </test> <!-- CP001_Flujo_Completo_Desafio -->
+    <test started-at="2024-08-19T22:08:37 CLT" name="CP002_PuntoExtra" finished-at="2024-08-19T22:09:27 CLT" duration-ms="50540">
+      <class name="ips.tests.CP002_PuntoExtra">
+        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:ips.tests.CP002_PuntoExtra@2f9f7dcf]" started-at="2024-08-19T22:08:37 CLT" name="classLevelSetup" finished-at="2024-08-19T22:08:38 CLT" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelSetup -->
+        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:ips.tests.CP002_PuntoExtra@2f9f7dcf]" started-at="2024-08-19T22:08:38 CLT" name="methodLevelSetup" finished-at="2024-08-19T22:08:38 CLT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method signature="CP002(java.lang.reflect.Method)[pri:0, instance:ips.tests.CP002_PuntoExtra@2f9f7dcf]" started-at="2024-08-19T22:08:38 CLT" name="CP002" description="Flujo Punto Extra HP" finished-at="2024-08-19T22:09:23 CLT" duration-ms="44824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ips.tests.CP002_PuntoExtra.CP002(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ips.tests.CP002_PuntoExtra@2f9f7dcf]" started-at="2024-08-19T22:09:23 CLT" name="teardown" finished-at="2024-08-19T22:09:27 CLT" duration-ms="4528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ips.tests.CP002_PuntoExtra -->
+    </test> <!-- CP002_PuntoExtra -->
+    <test started-at="2024-08-19T22:09:27 CLT" name="CP003_PuntoExtra2" finished-at="2024-08-19T22:09:52 CLT" duration-ms="25064">
+      <class name="ips.tests.CP003_PuntoExtra2">
+        <test-method is-config="true" signature="setupProxy()[pri:0, instance:ips.tests.CP003_PuntoExtra2@7d8995e]" started-at="2024-08-19T22:07:02 CLT" name="setupProxy" finished-at="2024-08-19T22:07:02 CLT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupProxy -->
+        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:ips.tests.CP003_PuntoExtra2@7d8995e]" started-at="2024-08-19T22:09:27 CLT" name="classLevelSetup" finished-at="2024-08-19T22:09:28 CLT" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelSetup -->
+        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:ips.tests.CP003_PuntoExtra2@7d8995e]" started-at="2024-08-19T22:09:28 CLT" name="methodLevelSetup" finished-at="2024-08-19T22:09:28 CLT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method signature="CP003(java.lang.reflect.Method)[pri:0, instance:ips.tests.CP003_PuntoExtra2@7d8995e]" started-at="2024-08-19T22:09:28 CLT" name="CP003" description="Punto Extra Apple VS Samsung" finished-at="2024-08-19T22:09:48 CLT" duration-ms="19400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ips.tests.CP003_PuntoExtra2.CP003(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ips.tests.CP003_PuntoExtra2@7d8995e]" started-at="2024-08-19T22:09:48 CLT" name="teardown" finished-at="2024-08-19T22:09:52 CLT" duration-ms="4533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ips.tests.CP003_PuntoExtra2 -->
+    </test> <!-- CP003_PuntoExtra2 -->
+  </suite> <!-- Desafio_Automatizacion -->
+</testng-results>

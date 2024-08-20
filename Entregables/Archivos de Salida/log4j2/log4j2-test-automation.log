@@ -1,0 +1,59 @@
+[INFO ] 2024-08-19 22:07:03.163 [main] Log - I am in onStart method CP001_Flujo_Completo_Desafio
+[INFO ] 2024-08-19 22:07:03.185 [main] Log - Test empieza!
+[INFO ] 2024-08-19 22:07:05.475 [main] Log - CP001 test is starting.
+[INFO ] 2024-08-19 22:07:05.808 [main] Log - Entrando a la web Index..
+[INFO ] 2024-08-19 22:07:09.652 [main] Log - Agregando iMac
+[INFO ] 2024-08-19 22:07:19.197 [main] Log - Agregando iPod Classic
+[INFO ] 2024-08-19 22:07:29.185 [main] Log - Ingresando al carrito de compras
+[INFO ] 2024-08-19 22:07:31.707 [main] Log - iMac se encuentra en el carrito
+[INFO ] 2024-08-19 22:07:31.738 [main] Log - iPod Classic se encuentra en el carrito
+[INFO ] 2024-08-19 22:07:33.214 [main] Log - Entrando a la web Check Out..
+[INFO ] 2024-08-19 22:07:33.230 [main] Log - Creando Nuevo usuario
+[INFO ] 2024-08-19 22:07:35.652 [main] Log - Ingreso Datos de Cuenta Nueva
+[INFO ] 2024-08-19 22:07:57.506 [main] Log - Datos Correctamente Validados
+[INFO ] 2024-08-19 22:07:57.506 [main] Log - Aceptando la Dirreccion Actual de Delivery
+[INFO ] 2024-08-19 22:07:59.927 [main] Log - Validando Costo de Despacho
+[INFO ] 2024-08-19 22:08:02.726 [main] Log - Costo de despacho Valido
+[INFO ] 2024-08-19 22:08:02.887 [main] Log - Elegir Tipo de Transferencia
+[INFO ] 2024-08-19 22:08:06.508 [main] Log - Inicio de Confirmación de Orden
+[INFO ] 2024-08-19 22:08:10.671 [main] Log - La orden se procesó Correctamente
+[INFO ] 2024-08-19 22:08:13.431 [main] Log - Entrando a la web Historial..
+[INFO ] 2024-08-19 22:08:13.439 [main] Log - Ingresando a Historial
+[INFO ] 2024-08-19 22:08:16.461 [main] Log - Mostrando Historial
+[INFO ] 2024-08-19 22:08:18.837 [main] Log - Validación estado Pending del producto
+[INFO ] 2024-08-19 22:08:18.837 [main] Log - Ingresando a Otra Informacion
+[INFO ] 2024-08-19 22:08:21.818 [main] Log - Validar Datos de direccion de pago vs los creados en Cuenta
+[INFO ] 2024-08-19 22:08:21.895 [main] Log - Los datos de direccion de direccion de pago son los mismos que los ingresados al crear la cuenta
+[INFO ] 2024-08-19 22:08:21.895 [main] Log - Iniciando Logout
+[INFO ] 2024-08-19 22:08:24.978 [main] Log - Logout del Sistema
+[INFO ] 2024-08-19 22:08:32.054 [main] Log - CP001 test is succeed.
+[INFO ] 2024-08-19 22:08:36.303 [main] Log - Test terminado
+[INFO ] 2024-08-19 22:08:36.870 [main] Log - I am in onFinish method CP001_Flujo_Completo_Desafio
+[INFO ] 2024-08-19 22:08:37.304 [main] Log - I am in onStart method CP002_PuntoExtra
+[INFO ] 2024-08-19 22:08:37.308 [main] Log - Test empieza!
+[INFO ] 2024-08-19 22:08:38.258 [main] Log - CP002 test is starting.
+[INFO ] 2024-08-19 22:08:38.263 [main] Log - Entrando a la web Index..
+[INFO ] 2024-08-19 22:08:43.705 [main] Log - Iniciando Login
+[INFO ] 2024-08-19 22:08:47.073 [main] Log - Pagina Login del Sistema
+[INFO ] 2024-08-19 22:08:53.278 [main] Log - mostrando HP LP3065
+[INFO ] 2024-08-19 22:09:00.660 [main] Log - Entrando a la web Compra..
+[INFO ] 2024-08-19 22:09:00.665 [main] Log - Agregando HP LP3065
+[INFO ] 2024-08-19 22:09:03.483 [main] Log - El valor de la Ram es correcto: 16GB
+[INFO ] 2024-08-19 22:09:05.709 [main] Log - Iniciando Review
+[INFO ] 2024-08-19 22:09:12.963 [main] Log - Review Incorrecta
+[INFO ] 2024-08-19 22:09:18.548 [main] Log - Carga de Review Correcta
+[INFO ] 2024-08-19 22:09:20.803 [main] Log - Agrega Producto al Carro
+[INFO ] 2024-08-19 22:09:23.083 [main] Log - CP002 test is succeed.
+[INFO ] 2024-08-19 22:09:27.316 [main] Log - Test terminado
+[INFO ] 2024-08-19 22:09:27.849 [main] Log - I am in onFinish method CP002_PuntoExtra
+[INFO ] 2024-08-19 22:09:27.891 [main] Log - I am in onStart method CP003_PuntoExtra2
+[INFO ] 2024-08-19 22:09:27.892 [main] Log - Test empieza!
+[INFO ] 2024-08-19 22:09:28.828 [main] Log - CP003 test is starting.
+[INFO ] 2024-08-19 22:09:28.830 [main] Log - Entrando a la web Index..
+[INFO ] 2024-08-19 22:09:32.600 [main] Log - mostrando Apple Cinema
+[INFO ] 2024-08-19 22:09:38.299 [main] Log - mostrando Samsung SyncMaster
+[INFO ] 2024-08-19 22:09:44.094 [main] Log - Entrando a Comparador de Productos
+[INFO ] 2024-08-19 22:09:46.015 [main] Log - Mostrando Productos
+[INFO ] 2024-08-19 22:09:48.228 [main] Log - CP003 test is succeed.
+[INFO ] 2024-08-19 22:09:52.434 [main] Log - Test terminado
+[INFO ] 2024-08-19 22:09:52.958 [main] Log - I am in onFinish method CP003_PuntoExtra2

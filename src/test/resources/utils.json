@@ -1,0 +1,33 @@
+{
+    "url":"http://opencart.abstracta.us/index.php?route=common/home",
+    
+    "CP001":{
+    "Busqueda1":"iMac",
+    "Busqueda2":"iPod Classic",
+    "Nombre":"QA", 
+    "Apellido":"Testing", 
+    "Email":"DesafioPrevired@testing.cl", 
+    "Telefono":"56974085428", 
+    "Direccion":"Prueba qa 1234", 
+    "Ciudad":"Santiago", 
+    "CodigoPostal":"8320000", 
+    "Pais":"Chile", 
+    "Region":"Region Metropolitana", 
+    "Contrasenia":"UsuarioQA9865", 
+    "ConfirmaContrasenia":"UsuarioQA9865",
+    "TipoPago":"Efectivo"
+    },
+    "CP002":{
+    "BusquedaHP":"HP LP3065",
+    "CantidadBusquedaHP":"2",
+    "CantidadRam":"16GB",
+    "EscribeReviewMalo":"este review es invalido",
+    "EscribeReviewBueno":"este es un review creado correctamente"
+    },
+    "CP003":{
+    "Busqueda1":"Apple Cinema",
+    "Busqueda2":"Samsung SyncMaster"
+    }
+    
+    
+}

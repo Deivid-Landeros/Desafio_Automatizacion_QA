@@ -45,9 +45,7 @@ public class BaseTest {
 //  		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
 //        driver.manage().window().maximize();
         
-        ChromeOptions options = new ChromeOptions(); 
-        driver = new ChromeDriver(options);
-        
+        ChromeOptions options = new ChromeOptions();         
         String os = System.getProperty("os.name").toLowerCase();
 
         if (os.contains("win")) {
@@ -58,7 +56,9 @@ public class BaseTest {
             System.setProperty("webdriver.chrome.driver", "src/test/resources/driver/chromedriver");
             options.addArguments("headless"); // Activa el modo headless en Linux/Mac
         }
-      		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        	options.setAcceptInsecureCerts(true);
+        	driver = new ChromeDriver(options);
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
       		driver.manage().timeouts().scriptTimeout(Duration.ofSeconds(30));
       		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
       		driver.manage().window().setSize(new Dimension(1920, 1080));
